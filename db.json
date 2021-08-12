@@ -1,39 +1,29 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
+      "nombre": "Potatos",
+      "precio": 230,
+      "id": 1
     },
     {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
-      "nombre": "Rib Eye 800g",
-      "precio": "200",
-      "id": 4
-    },
-    {
-      "nombre": "Jugo de Fresa",
-      "precio": "200",
-      "id": 5
-    },
-    {
-      "nombre": "Tienda virtual",
-      "precio": 123,
+      "nombre": "Fast food",
+      "precio": 5.99,
       "id": 6
     },
     {
-      "nombre": "Didiel",
-      "precio": 3434,
+      "nombre": "Cheese burger",
+      "precio": 4900,
       "id": 7
+    },
+    {
+      "nombre": "Testing pizza",
+      "precio": 20000,
+      "id": 8
+    },
+    {
+      "nombre": "BBQ hot dog",
+      "precio": 49,
+      "id": 9
     }
   ]
 }
